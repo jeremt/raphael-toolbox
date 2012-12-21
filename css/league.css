@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'League Gothic';
+    src: url(../font/League_Gothic-webfont.ttf);
+    font-weight:400;
+}
+
+@font-face {
+    font-family: 'League Gothic';
+    src: url(../font/League_Gothic-webfont.eot);
+    font-weight:400;
+}
+
+@font-face {
+    font-family: 'League Gothic';
+    src: url(../font/League_Gothic-webfont.svg);
+    font-weight:400;
+}
+
+@font-face {
+    font-family: 'League Gothic';
+    src: url(../font/League_Gothic-webfont.woff);
+    font-weight:400;
+}
